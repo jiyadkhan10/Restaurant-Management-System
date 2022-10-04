@@ -2,7 +2,7 @@
 # Course
 CS2006	Operating Systems <br />
 
-# Instructions:
+# Instructions
 1. For the exact number of Customers, Cooks, and Waiters you can take input from the user. <br />
 2. A manager has a Menu of items. (Menu contains dish name, price, and preparation time) <br />
 3. The customer has customer_ID and customer_Name. <br />
