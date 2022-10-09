@@ -8,7 +8,7 @@ CS2006	Operating Systems <br />
 3. The customer has customer_ID and customer_Name. <br />
 4. Use pipe for communication between Customer, Manager and wherever this is applicable. <br />
 5. In project report you can briefly justify your project implementation. <br />
-6. 
+
 # Description
 A fast-food restaurant has a process of a Manager, Cook, Waiter, and Customer. At the start, the restaurant has one manager, cook, waiter and customer but you can create multiple Cooks and Waiters to handle more than one Customer using multithreading. When the customer will place its order you will calculate the total preparation time of all the dishes that the customer ordered and the customer will wait for that time. <br />
 
